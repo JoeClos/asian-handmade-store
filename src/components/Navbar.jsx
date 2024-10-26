@@ -61,7 +61,7 @@ const Navbar = () => {
           >
             LOGO
           </Typography>
-          <Box sx={{ display: { xs: "none", sm: "block", lg: "flex" }, gap: { lg: "1rem" } }}>
+          <Box sx={{ display: { xs: "none",  sm: "flex" }, gap: { sm: "1rem" } }}>
           <Typography>Home</Typography>
             <Typography>Contact</Typography>
             <Typography>Cart</Typography>
